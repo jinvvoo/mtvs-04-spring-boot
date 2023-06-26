@@ -1,0 +1,13 @@
+#테스트 띄고 클론 앤터 띄고 띄고 작성
+#키와 밸류사이 공백 3개
+test :
+  greeting: hi!!!
+  array: 안녕, 반가워
+
+# 아래 하단은 버그때문에 안씀, 위처럼 사용.
+#  array:
+#    - 안녕
+#    - 반가워
+
+  value: hell world!!
+username: 김진호
